@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is no longer maintained or has been moved to [github.com/InledGroup](https://github.com/InledGroup) or [github.com/Inled-Pulsar-OS](https://github.com/Inled-Pulsar-OS)
 <img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
 ======
 
